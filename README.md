@@ -1,7 +1,6 @@
-# laboratorio-meotodi-digitali-per-la-ricerca-sociale
 # I giornalisti italiani al "Breaking Italy Night"
 
-Questo repository contiene il progetto di ricerca e analisi dati sviluppato per il laboratorio di **Metodi digitali per la ricerca sociale** (A.A. 2023/2024). L'obiettivo dello studio è analizzare il comportamento, il sentiment e le tematiche emergenti all'interno della community di *Breaking Italy*, focalizzandosi in particolare sui commenti degli utenti a quattro video-interviste realizzate con noti giornalisti italiani: Francesco Costa, Giulia Pompili, Cecilia Sala e Giovanni Floris.
+Questo repository contiene il progetto di ricerca e analisi dati sviluppato per il laboratorio di **[Metodi digitali per la ricerca sociale](https://www.didattica-cps.unito.it/do/storicocorsi.pl/Show?_id=mzpm_2223)** (A.A. 2023/2024). L'obiettivo dello studio è analizzare il comportamento, il sentiment e le tematiche emergenti all'interno della community di *Breaking Italy*, focalizzandosi in particolare sui commenti degli utenti a quattro video-interviste realizzate con noti giornalisti italiani: Francesco Costa, Giulia Pompili, Cecilia Sala e Giovanni Floris.
 
 ## 🎯 Obiettivi del Progetto
 
