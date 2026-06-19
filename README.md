@@ -35,7 +35,7 @@ Il progetto è stato interamente sviluppato in **R**, sfruttando un approccio in
 * `IstruzioniR.pdf`: Guida di laboratorio passo-passo con la spiegazione metodologica delle funzioni utilizzate.
 * `Presentazione.pdf`: Il report di ricerca finale completo di grafici, interpretazione socioculturale dei dati ed insight emersi.
 
-## 🚀 Principali Insight Emersi
+## Principali Insight Emersi
 
 * **Percezione del Format:** L'analisi delle co-occorrenze e dei contesti (KWIC) legati al termine "chiacchierata" evidenzia come il pubblico percepisca il format in modo polarizzato: da un lato si apprezza l'informazione "orizzontale" e spontanea, dall'altro si sollevano critiche sulla mancanza di un contraddittorio rigido.
 * **Critica Sociale dei Giovani:** Il termine "Italia" (spesso correlato a "giovani" e "cultura") agisce da catalizzatore di discussioni strutturate sull'attualità politica e il divario generazionale, confermando l'alto profilo di engagement civico della community analizzata.
